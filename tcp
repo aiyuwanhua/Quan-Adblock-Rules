@@ -1,0 +1,13 @@
+[TCP]
+HOST,iadmusicmat.music.126.net,REJECT
+HOST-SUFFIX,127.net,REJECT
+HOST-SUFFIX,tanx.com,REJECT
+HOST-KEYWORD,wanproxy,REJECT
+HOST-SUFFIX,miaozhen.com,REJECT
+HOST,59.111.160.195,REJECT
+HOST,crash.163.com,REJECT
+HOST,im-x.jd.com,REJECT
+HOST,adse.ximalaya.com,REJECT
+HOST,ulogs.umengcloud.com,REJECT
+HOST,ulogs.umeng.com,REJECT
+FINAL,DIRECT
