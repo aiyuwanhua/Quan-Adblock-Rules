@@ -10,4 +10,5 @@ HOST,im-x.jd.com,REJECT
 HOST,adse.ximalaya.com,REJECT
 HOST,ulogs.umengcloud.com,REJECT
 HOST,ulogs.umeng.com,REJECT
+HOST,imagev2.xmcdn.com,REJECT
 FINAL,DIRECT
